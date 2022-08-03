@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gonzalez\\Desktop\\form\\form\\form.csproj",
+      "projectUniqueName": "C:\\Users\\Gonzalez\\Desktop\\Crud-simples\\form\\form.csproj",
       "projectName": "form",
-      "projectPath": "C:\\Users\\Gonzalez\\Desktop\\form\\form\\form.csproj",
+      "projectPath": "C:\\Users\\Gonzalez\\Desktop\\Crud-simples\\form\\form.csproj",
       "packagesPath": "C:\\Users\\Gonzalez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gonzalez\\Desktop\\form\\form\\obj\\",
+      "outputPath": "C:\\Users\\Gonzalez\\Desktop\\Crud-simples\\form\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
